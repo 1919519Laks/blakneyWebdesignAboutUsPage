@@ -28,6 +28,10 @@ export const siteConfig = {
       label: "About Us",
       href: "/aboutus"
     },
+    {
+      label: "About Lucky, reference code",
+      href: "/aboutMeLucky"
+    },
   ],
   navMenuItems: [
     {
@@ -53,6 +57,10 @@ export const siteConfig = {
     {
       label: "About Us",
       href: "/aboutus"
+    },
+    {
+      label: "About Lucky, reference code",
+      href: "/aboutMeLucky"
     },
   ],
 };
